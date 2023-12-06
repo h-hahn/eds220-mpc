@@ -1,0 +1,15 @@
+---
+jupyter: mpc-env-kernel
+---
+
+# Example qmd file
+
+A shortcut for adding a cell is Command + Shift + I
+
+```{python}
+import numpy as np
+
+x = np.array([1,2,3,4])
+x*2
+```
+
